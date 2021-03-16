@@ -4,7 +4,7 @@ lab:
 ---
 
 # AI-900 Labs
-## Using Visual Studio Code
+## Get latest files
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
@@ -14,7 +14,6 @@ lab:
 
 ![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
 
-## 01 Lab Instructions
 In this lab we will be using the Computer Vision service in Azure to identify real-world items based on images.
 
 1.  Open the **01 - Image Analysis with Computer Vision.ipynb** notebook in Visual Studio Code. 

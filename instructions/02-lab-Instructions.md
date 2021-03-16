@@ -4,7 +4,7 @@ lab:
 ---
 
 # AI-900 Labs
-## Using Visual Studio Code
+## Get latest files
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
@@ -14,7 +14,6 @@ lab:
 
 ![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
 
-## 02 Lab Instructions
 In this lab we will be using the Custom Vision service in Azure to identify one real-world item in an image.
 
 1.  Open the **02 - Image Classification.ipynb** notebook in Visual Studio Code.

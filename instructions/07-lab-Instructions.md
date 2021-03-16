@@ -4,7 +4,7 @@ lab:
 ---
 
 # AI-900 Labs
-## Using Visual Studio Code
+## Get latest files
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
@@ -14,7 +14,6 @@ lab:
 
 ![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
 
-## 07 Lab Instructions
 In this lab we will create an application that can understand language.
 
 1.  Open the **07 - Text Analytics.ipynb** notebook in Visual Studio Code.

@@ -4,7 +4,7 @@ lab:
 ---
 
 # AI-900 Labs
-## Using Visual Studio Code
+## Get latest files
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
@@ -14,7 +14,6 @@ lab:
 
 ![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
 
-## 11 Lab Instructions
 In this lab we will create a bot that answers user questions.
 
 1.  Open the **11 - QnA Bot.ipynb** notebook in Visual Studio Code. 

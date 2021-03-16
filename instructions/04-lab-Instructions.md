@@ -4,7 +4,7 @@ lab:
 ---
 
 # AI-900 Labs
-## Using Visual Studio Code
+## Get latest files
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
@@ -14,7 +14,6 @@ lab:
 
 ![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
 
-## 04 Lab Instructions
 In this lab we will be using the Face service in Azure to identify real-world items based on images.
 
 1.  Open the **04 - Face Analysis.ipynb** notebook in Visual Studio Code.

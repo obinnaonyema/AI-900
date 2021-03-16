@@ -4,7 +4,7 @@ lab:
 ---
 
 # AI-900 Labs
-## Using Visual Studio Code
+## Get latest files
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
@@ -14,7 +14,6 @@ lab:
 
 ![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
 
-## 06 Lab Instructions
 In this lab we will be using the Form Recognizer service in Azure to identify text on from images of forms.
 
 1.  Open the **06 - Receipts with Form Recognizer.ipynb** notebook in Visual Studio Code. 
